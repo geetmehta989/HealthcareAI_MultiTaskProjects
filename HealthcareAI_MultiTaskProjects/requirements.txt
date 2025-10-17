@@ -1,0 +1,23 @@
+# Minimal requirements for local runs (Colab cells install exact versions)
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+gdown
+wfdb
+neurokit2
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+evaluate
+bitsandbytes
+peft
+trl
+sentencepiece
+sacrebleu
+rouge-score
+kaggle
